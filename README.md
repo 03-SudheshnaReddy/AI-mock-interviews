@@ -43,6 +43,7 @@ The platform focuses on delivering a professional, realistic, and interactive in
 git clone https://github.com/03-SudheshnaReddy/AI-mock-interviews.git
 cd AI-mock-interviews
 npm install
+````
 
 ### 🔑 Environment Variables
 
@@ -55,11 +56,11 @@ NEXT_PUBLIC_FIREBASE_PROJECT_ID=
 NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=
 NEXT_PUBLIC_FIREBASE_APP_ID=
-
+```
 ### Run Locally
 ```bash
 npm run dev
-
+```
 Now open http://localhost:3000 in your browser.
 
-````
+
